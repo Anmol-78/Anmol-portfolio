@@ -417,6 +417,10 @@ nav .fa-solid{
     
 
    }
+   form input, form textarea{
+    align-content: center;
+    justify-items: center;
+   }
 }
 #msg{
     color: #61b752;
